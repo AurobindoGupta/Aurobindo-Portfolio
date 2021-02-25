@@ -72,6 +72,10 @@ hr {
 .navigation .nav-brand {
     font-size: 1.1rem;
     font-weight: bold;
+    display: inline;
+}
+.rgt{
+    float: right;
 }
 
 
@@ -98,8 +102,22 @@ hr {
 .navigation ul {
     padding-inline-start: 0px;
 }
-  
-
+.profimage{
+    border-radius: 1rem;
+    height: 5rem;
+    float: right;
+    padding: 0rem;
+    margin: 0rem;
+}  
+table,th,td{
+    border: 1.5px black;
+    border-style: solid;
+    
+}
+.table{
+    width: 100%;
+    
+}
 
 .hero {
     padding: 2rem;
@@ -155,4 +173,7 @@ hr {
 }
 .footer ul{
     padding-inline-start:0px
+}
+.ppj h1{
+ text-decoration: underline;
 }
