@@ -151,6 +151,9 @@ table,th,td{
 .section .home-page{
     text-align: center;
 }
+.section .projects link{
+    float: right;
+}
 .section .blog{
     text-align: left;
 }
